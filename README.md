@@ -1,0 +1,2 @@
+# RichWIkIS
+OpenCCed Rich Wiki
